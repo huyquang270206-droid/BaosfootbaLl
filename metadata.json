@@ -1,0 +1,6 @@
+{
+  "name": "Football Hub Việt Nam",
+  "description": "Nền tảng tin tức bóng đá, lịch thi đấu, kết quả, tỷ số trực tiếp và bảng xếp hạng chuyên nghiệp hàng đầu Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
